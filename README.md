@@ -25,5 +25,15 @@ Benötigte Bauteile:
 ![Siebensegmentanzeige top](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/4725b233-89a7-4122-ae8c-066d4aeac962)
 ![Siebensegmentanzeige bottom](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/46590f15-b69f-42c0-852c-05dd96c2e74b)
 
+![IMG_20230801_173535](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/0797b2c2-7f71-4544-848b-3bd4722c5392)
+
+![IMG_20230801_173556](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/a952c00a-829d-4be1-affa-a17a2629d51b)
+![IMG_20230801_173602](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/0ff5705f-0756-49b1-ac1a-87570c1cd3c2)
+
+
 
 ![7 Segment mit 7 Servos_Steckplatine](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/b354b846-10d0-4a8f-a3bd-6e0174af6c4d)
+
+
+![IMG_20230801_173633](https://github.com/18-Sunil-18/7_segment_with_7_Servo/assets/70856050/5b34af2f-483a-4a24-a0ee-899d5b265687)
+
